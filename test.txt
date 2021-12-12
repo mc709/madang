@@ -5,7 +5,7 @@
   git config --global user.name "mc709"
 
 
-  git init
+git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
